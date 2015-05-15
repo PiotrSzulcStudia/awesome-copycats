@@ -8,7 +8,7 @@
 theme                               = {}
 
 theme.dir                           = os.getenv("HOME") .. "/.config/awesome/themes/blackburn"
-theme.wallpaper                     = os.getenv("HOME") .. "/.config/awesome/themes/holo/wall.jpg"
+theme.wallpaper                     = os.getenv("HOME") .. "/.config/awesome/themes/blackburn/wall.jpg"
 theme.topbar_path                   = "png:" .. theme.dir .. "/icons/topbar/"
 
 --theme.font = "Droid Sans Mono 8"
